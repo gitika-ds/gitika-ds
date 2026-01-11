@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Gitika](https://github.com/gitika-ds)! 😁
 
-Hello, my name is Gitika and I am a final year bachelor's student at [Indian Institute of Science Education & Research (IISER), Tirupati](https://www.iisertirupati.ac.in/) majoring in Mathematics. I hold experience in working with python, data analysis & visualisation libraries - pandas, numpy, matplotlib, machine learning frameworks - scikitlearn and tensorflow, Databases - MySQL & PostgreSQL and MS Excel. I have a strong foundation in linear algebra, calculus, proabbility & statistics, network sciences and ordinary differential equations with complements my programming skills and provides me with the strength of working with computational mathematics, both by hand and via code.
+Hello, my name is Gitika and I am a final year bachelor's student at [Indian Institute of Science Education & Research (IISER), Tirupati](https://www.iisertirupati.ac.in/) majoring in Mathematics. I hold experience in working with Python, Data analysis & visualisation libraries - Pandas, Numpy, Matplotlib, Machine Learning frameworks - Scikitlearn and Tensorflow, Databases - MySQL & PostgreSQL and MS Excel. I have a strong foundation in Linear Algebra, Calculus, Proabbility & Statistics, Network Science and Ordinary Differential Equations which complements my programming skills and provides me with the strength of working with computational mathematics, both by hand and via code.
 
 - 🔭 I’m currently interested in working on Bayesian Neural Networks.
 - 💬 Brainstorm with me over science, mathematics, AI, and dance.
