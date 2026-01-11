@@ -1,42 +1,21 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/b7/79/90/b77990c5cd77083976aebcecd01d77c6.jpg" width="100"/>
- <div id="badges">
-  <a href="https://www.linkedin.com/in/gitika-ds" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/gi.ti.ka/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
- <img src="https://komarev.com/ghpvc/?username=gitika-ds&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  Hey there !!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/>
-</h1>
-<h1>:woman_technologist: About Me :</h1>
+### Hi there 👋, I am [Gitika](https://github.com/gitika-ds)! 😁
 
-- 👋 Hi, I’m Gitika, a fourth year undergrad in Mathematics.
-- 👀 Learning and Building with Machine Learning & Mathematics
-- 🌱 Expertise in Python, ScikitLearn & Tensorflow for ML and PostgreSQL & Advanced Excel for data cleaning and analysis. 
-- 💞️ Solving real problems using ML models, a problem at a time.
-- 📫 How to reach me - mail me at gitika.kshyp@gmail.com
+Hello, my name is Gitika and I am a final year bachelor's student at [Indian Institute of Science Education & Research (IISER), Tirupati](https://www.iisertirupati.ac.in/) majoring in Mathematics. I hold experience in working with python, data analysis & visualisation libraries - pandas, numpy, matplotlib, machine learning frameworks - scikitlearn and tensorflow, Databases - MySQL & PostgreSQL and MS Excel. I have a strong foundation in linear algebra, calculus, proabbility & statistics, network sciences and ordinary differential equations with complements my programming skills and provides me with the strength of working with computational mathematics, both by hand and via code.
+
+- 🔭 I’m currently interested in working on Bayesian Neural Networks.
+- 💬 Brainstorm with me over science, mathematics, AI, and dance.
+- 📫 How to reach me: gitika.kshyp@gmail.com
+- 😄 Pronouns: Programmer/She/Her/Hers
 
 
-<h1> :hammer_and_wrench: Skills :</h1>
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,mysql,vscode,notion,sklearn,windows,Excel" />
-  </a>
-</p>
+**Languages and Tools:** 
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=gitika-ds&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitika-ds&hide=TeX&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitika-ds&layout=compact&theme=vision-friendly-dark)](https://github.com/Gitika-26/github-readme-stats)<br/><br/>
-[![Gitika's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitika-ds&show_icons=true&theme=radical)](https://github.com/Gitika-26/github-readme-stats) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=gitika-ds&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-<!---
-Gitika-26/Gitika-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gitika-ds.gitika-ds)
